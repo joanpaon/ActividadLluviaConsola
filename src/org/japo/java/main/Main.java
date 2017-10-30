@@ -33,7 +33,7 @@ public class Main {
         String nombre = "indefinido";
         int diaMin = 0;
         int diaMax = 0;
-        int lectura = 0;
+        int lectura;
         int lecturaMin = 0;
         int lecturaMax = 0;
         double acumulador = 0;
